@@ -98,6 +98,8 @@ Samsung Galaxy J7 SM-J700M es un dispositivo de 5,5 "(139,3 mm) con una resoluci
 
 
 **Alex Yovany & María Guadalupe**
+
+
 |                |Lenovo K5, Caracteristicas téncicas                                                      |
 |----------------    |-------------------------------                                                      |
 |Dimensiones físicas |`142 x 71 x 8 mm, de 142 g`                                                          |
