@@ -106,4 +106,8 @@ Samsung Galaxy J7 SM-J700M es un dispositivo de 5,5 "(139,3 mm) con una resoluci
 | Tiempo de reproducción de audio | Hasta 76h |
 | Tiempo de conversación | Hasta 18h (3G WCDMA) |
 
-
+|                |ASCII                          |HTML                         |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
