@@ -95,3 +95,65 @@ Samsung Galaxy J7 SM-J700M es un dispositivo de 5,5 "(139,3 mm) con una resoluci
 |Tiempo de reproducción de video          |Hasta 13h|
 |Tiempo de reproducción de audio          |Hasta 76h|
 |Tiempo de conversación          |Hasta 18h (3G WCDMA)|
+
+
+**Alex Yovany & María Guadalupe**
+|                |Lenovo K5, Caracteristicas téncicas                                                      |
+|----------------    |-------------------------------                                                      |
+|Dimensiones físicas |`142 x 71 x 8 mm, de 142 g`                                                          |
+|Pantalla            |`IPS 5 pulgadas`                                                                     |
+|Resolución          |`HD 1280 x 720 píxeles`                                                              |
+|Procesador          |`Qualcomm MSM8929 Snapdragon 415 64 bits y ocho núcleos: 4xCortex-A53 a 1,5 GHz y                              4xCortex-A53 a 1,2 GHz`                                                             |
+|Procesador Gráfico  |`Adreno 405`                                                                         |
+|RAM                 |`2 GB`                                                                               |
+|Memoria             |`16 GB Ampliable hasta en otros 32 GB con tarjeta microSD`                           |
+|Versión de Software |`Android 5.1.1`                                                                      |
+|Conectividad        |`	Wi-Fi 802.11a/b/g/n, Dual MicroSIM, Bluetooth 4.1, GPS, microUSB v2.0, Jack 3,5 mm`|
+|Cámaras             |`Trasera 13 megapíxeles, Frontal de 5 megapíxeles`                                   |
+|Batería             |`Polímero de litio de 2.750 mAh`                                                     |
+
+
+**Israel Reyes**
+
+|                |Motorola Moto G4 Play                                                     |
+|----------------    |-------------------------------                                                      |
+|Dimensiones físicas |`144,4 x 72 x 9,9 mm`                                                          |
+|Pantalla            |`IPS 5 pulgadas`                                                                     |
+|Resolución          |`HD 1280 x 720 píxeles, 294 ppp`                                                     |
+|Procesador          |`Qualcomm Snapdragon 410 Quad-core 1.4 GHz`                                                             |
+|Procesador Gráfico  |`Adreno 306`                                                                         |
+|RAM                 |`2 GB`                                                                               |
+|Memoria             |`16 GB Ampliable hasta en otros 128 GB con tarjeta microSD`                           |
+|Versión de Software |`Android 6.0.1`                                                                      |
+|Conectividad        |`	LTE, Wi-Fi 802.11 b/g/n/  GPS con soporte A-GPS y GLONASS Bluetooth 4.1 A2DP Radio FM`|
+|Cámaras             |`Trasera: 8 MP con autofocus, flash LED, HDR y vídeo 720p Frontal: 5 MP`                                   |
+|Batería             |`Batería Li-Ion, 2.800 mAh, extraíble`                                               |
+
+
+**Milka**
+
+|                |Motorola Moto G5                                                     |
+|----------------    |-------------------------------                                                      |
+|Pantalla            |`IPS de 5,0 pulgadas FullHD 441 píxeles por pulgada`                                 |
+|Procesador          |`Snapdragon 430 8 núcleos a 1,4GHz`                                                  |
+|Procesador Gráfico  |`Adreno 505`                                                                         |
+|RAM                 |`2 GB`                                                                               |
+|Memoria             |`16 GB Ampliable hasta en otros 128 GB con tarjeta microSD`                          |
+|Versión de Software |`Android 7.0`                                                                      |
+|Conectividad        |`	LTE , WiFi, Bluetooth, GPSV`|
+|Cámaras             |`Trasera 13 megapíxeles con flash LED y enfoque PDAF Frontal 5 megapíxeles`          |
+|Batería             |`Batería Li-Ion, 2.800 mAh, extraíble`                                               |
+
+
+**Hugo Yadiel**
+
+|                |ALCATEL PIXI4 5.5" (5012G)                                                   |
+|----------------    |-------------------------------                                                      |
+|Dimensiones físicas |151,20 x 78,30 x 8,60 mm                                                          |
+|Pantalla            |720 x 1280 px (5,50") 267 ppi, 16M colores, colorida / IPS TFT                |
+|Procesador          |MediaTek MT6580, Frecuencia de reloj: 1,30 GHz, Cantidad de núcleos: 4, GPU: ARM Mali-400 MP2 500 MHz |
+|RAM                 |`1 GB`                                                                               |
+|Memoria             |`4.5 GB Ampliable hasta en otros 32 GB con tarjeta microSD`                           |
+|Versión de Software |`Android 6.0 Marshmallow`                                                                      |
+|Cámaras             |`Trasera 13 megapíxeles, Frontal de 8 megapíxeles`                                   |
+|Batería             |`Li-Ion 2500 mAh`                                                     |
