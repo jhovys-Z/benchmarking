@@ -192,3 +192,4 @@ Samsung Galaxy J7 SM-J700M es un dispositivo de 5,5 "(139,3 mm) con una resoluci
 
 
 ## **Conclusión**
+Benchmarking es la herramienta que se utiliza para referenciar los mejores aspectos, se realizaron las comparaciones necesarias entre diferentes dispositivos moviles para verificar el nivel de calidad, se tomaron las medidas pertinentes para elegir el mejor dispositivo en la toma de fotografias 
